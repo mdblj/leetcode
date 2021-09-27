@@ -15,8 +15,43 @@
 * 1->1->2->3->4->4->5->6
 **********************************************************************************/
 
-// add Priority queue solution later.
+// Priority queue.
+function mergeLists(n1, n2) {
+    const head = new ListNode(0);
+    let node = head;
+    while (n1 && n2) {
+         if (n1.val < n2.val) {
+             node.next = n1;
+             n1 = n1.next;
+         } else {
+             node.next = n2;
+             n2 = n2.next;
+         }
+         node = node.next;
+    }
+    
+    if (n1) node.next = n1;
+    if (n2) node.next = n2;
+    
+    return head.next;
+}
 
+var mergeKLists = function(lists) {
+    if (!lists.length) return null;
+
+    while (lists.length > 1) {
+        const a = lists.shift();
+        const b = lists.shift();
+        const h = mergeLists(a, b);
+        lists.push(h);
+    }
+    
+    return lists[0];
+};
+
+
+
+//------------------------------ Greedy --------------------------------------------
 var mergeKLists = function(lists) {
     const arr = [];
     
