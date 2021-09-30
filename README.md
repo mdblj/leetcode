@@ -8,6 +8,7 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/RemoveNthNodeFromEndOfList.js) | One pass | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/MergekSortedLists.js) | Priority Queue | Hard |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/InsertInterval.js) | Binary-search | Medium |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/ClimbingStairs.js) | DP, Fibonacci | Easy | 
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/MinimumWindowSubstring.js) | Sliding window | Hard |
 | 98 | [Validate Binary Search Tree](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ValidateBinarySearchTree.js) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ValidateBinarySearchTree.js) | BST, DFS | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/SameTree.js) | Binary-tree, DFS | Easy |
