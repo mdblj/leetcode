@@ -30,6 +30,7 @@
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/LongestIncreasingSubsequence.js) | DP | Medium | 
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/CoinChange.js) | DP | Medium | 
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/TopKFrequentElements.js) | Hash Map | Medium |
+| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) 🔥 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/CombinationSumIV.js) | DP, Memoization | Medium |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/PacificAtlanticWaterFlow.js) | DFS | Medium |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/LongestRepeatingCharacterReplacement.js) | Sliding window | Medium |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/Non-overlappingIntervals.js) | Greedy | Medium |
