@@ -10,7 +10,7 @@
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/InsertInterval.js) | Binary-search | Medium |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/ClimbingStairs.js) | DP, Fibonacci | Easy | 
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/MinimumWindowSubstring.js) | Sliding window | Hard |
-| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/DecodeWays.js) | DP, Memoization | Medium |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) 🔥 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/DecodeWays.js) | DP, Memoization | Medium |
 | 98 | [Validate Binary Search Tree](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ValidateBinarySearchTree.js) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ValidateBinarySearchTree.js) | BST, DFS | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/SameTree.js) | Binary-tree, DFS | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/BinaryTreeLevelOrderTraversal.js) | Binary-tree, BFS | Medium | 
