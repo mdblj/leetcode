@@ -7,6 +7,7 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/LongestRepeatingCharacterReplacement.js) | Sliding window | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/RemoveNthNodeFromEndOfList.js) | One pass | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/MergekSortedLists.js) | Priority Queue | Hard |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) 🔥 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/JumpGame.js) | Greedy | Medium |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/InsertInterval.js) | Binary-search | Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/UniquePaths.js) | DP, Memoization | Medium |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/ClimbingStairs.js) | DP, Fibonacci | Easy | 
