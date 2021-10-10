@@ -33,6 +33,7 @@
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/InvertBinaryTree.js) | Binary-tree, DFS | Easy |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/KthSmallestElementInaBST.js) | BST, DFS | Medium |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/LowestCommonAncestorofaBinarySearchTree.js) | BST, DFS | Easy |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/ValidAnagram.js) | Hash | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/MoveZeroes.js) | Two pointer | Easy |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) 🔥 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/FindMedianfromDataStream.js) | Heap | Hard |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/SerializeAndDeserializeBinaryTree.js) | Binary-tree, DFS | Hard |
