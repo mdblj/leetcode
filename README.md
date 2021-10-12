@@ -15,6 +15,7 @@
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/SortColors.js) | Array | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/MinimumWindowSubstring.js) | Sliding window | Hard |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/WordSearch.js) | DFS | Medium |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) 🔥 | [JavaScript](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Stack | Hard |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) 🔥 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/DecodeWays.js) | DP, Memoization | Medium |
 | 98 | [Validate Binary Search Tree](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ValidateBinarySearchTree.js) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ValidateBinarySearchTree.js) | BST, DFS | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/SameTree.js) | Binary-tree, DFS | Easy |
