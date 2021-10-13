@@ -38,6 +38,7 @@
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ProductofArrayExceptSelf.js) | Array | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/ValidAnagram.js) | Hash | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/MoveZeroes.js) | Two pointer | Easy |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/FindtheDuplicateNumber.js) | Tortoise and Hare | Medium |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) 🔥 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/FindMedianfromDataStream.js) | Heap | Hard |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/SerializeAndDeserializeBinaryTree.js) | Binary-tree, DFS | Hard |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/LongestIncreasingSubsequence.js) | DP | Medium | 
