@@ -13,7 +13,6 @@
  *   What if you could modify the BST node's structure?
  *   The optimal runtime complexity is O(height of BST).
  * 
- * Credits:Special thanks to @ts for adding this problem and creating all test cases.
  **********************************************************************************/
 
 var kthSmallest = function(root, k) {
