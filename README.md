@@ -28,6 +28,7 @@
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/SortList.js) | Sort | Medium |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/HouseRobber.js) | DP | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JavsScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/NumberOfIslands.js) | DFS | Medium |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/HappyNumber.js) | Hash-set | Easy |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/CourseSchedule.js) | DFS | Medium |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ImplementTrie.js) | Trie, DFS  | Medium |
 | 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/DesignAddandSearchWordsDataStructure.js) | Trie, DFS | Medium |
