@@ -55,3 +55,4 @@
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/SubtreeofAnotherTree.js) | Binary-tree, DFS | Easy |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/PalindromicSubstrings.js) | DP | Medium |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/UniqueEmailAddresses.js) | hash-set | Easy |
+| 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [JavaScript](https://github.com/thinkJin6/leetcode/tree/main/solutions/medium) | Greedy | Medium | 
