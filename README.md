@@ -25,6 +25,7 @@
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ConstructBinaryTreefromPreorderandInorderTraversal.js) | Binary-tree, DFS | Medium |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/BinaryTreeMaximumPathSum.js) | Binary-tree, DFS | Hard |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/LongestConsecutiveSequence.js) | Hash | Medium |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/SurroundedRegions.js) | DFS | Medium |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/WordBreak.js) | DP, BFS | Medium |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/SortList.js) | Sort | Medium |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/HouseRobber.js) | DP | Medium |
