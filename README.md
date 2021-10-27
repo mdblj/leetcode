@@ -17,6 +17,7 @@
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/MinimumWindowSubstring.js) | Sliding window | Hard |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/WordSearch.js) | DFS | Medium |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) 🔥 | [JavaScript](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Stack | Hard |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/Merge%20Sorted%20Array.js) | Two pointers | Easy |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) 🔥 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/DecodeWays.js) | DP, Memoization | Medium |
 | 98 | [Validate Binary Search Tree](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ValidateBinarySearchTree.js) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ValidateBinarySearchTree.js) | BST, DFS | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/SameTree.js) | Binary-tree, DFS | Easy |
@@ -43,7 +44,7 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/LowestCommonAncestorofaBinarySearchTree.js) | BST, DFS | Easy |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ProductofArrayExceptSelf.js) | Array | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/ValidAnagram.js) | Hash | Easy |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/MoveZeroes.js) | Two pointer | Easy |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/MoveZeroes.js) | Two pointers | Easy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/FindtheDuplicateNumber.js) | Tortoise and Hare | Medium |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) 🔥 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/FindMedianfromDataStream.js) | Heap | Hard |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/SerializeAndDeserializeBinaryTree.js) | Binary-tree, DFS | Hard |
