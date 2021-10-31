@@ -4,6 +4,7 @@
 
 | # | Title | Solution | Type | Difficulty |
 |-----|------|-----|----------|------------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/Two%20Sum.js) | Hash | Easy |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/LongestRepeatingCharacterReplacement.js) | Sliding window | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/RemoveNthNodeFromEndOfList.js) | One pass | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/MergekSortedLists.js) | Priority Queue | Hard |
