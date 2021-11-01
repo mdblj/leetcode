@@ -32,6 +32,7 @@
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/SurroundedRegions.js) | DFS | Medium |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/WordBreak.js) | DP, BFS | Medium |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/SortList.js) | Sort | Medium |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array.js) | Binary-search | Medium |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/HouseRobber.js) | DP | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JavsScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/NumberOfIslands.js) | DFS | Medium |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/HappyNumber.js) | Hash-set | Easy |
