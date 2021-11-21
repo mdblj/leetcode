@@ -1,6 +1,8 @@
 # Leetcode 
 
-🔥 means that needs to be looking up.
+🔥 &nbsp; means that needs to be looking up.
+<br/>
+🏆 &nbsp; indicates that the problem is from the Leetcode weekly contest.
 
 | # | Title | Solution | Type | Difficulty |
 |-----|------|-----|----------|------------|
@@ -64,3 +66,4 @@
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/PalindromicSubstrings.js) | DP | Medium |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/UniqueEmailAddresses.js) | hash-set | Easy |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/CarPooling.js) | Greedy | Medium | 
+| 5930 | [Two Furthest Houses With Different Colors](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/TwoFurthestHousesWithDifferentColors.js) 🏆 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/TwoFurthestHousesWithDifferentColors.js) | Sliding Window | Easy |
