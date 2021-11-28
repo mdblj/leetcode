@@ -6,24 +6,20 @@
 **********************************************************************************/
 
 var countWords = function(words1, words2) {
-    const hash1 = {};
-    const hash2 = {};
-    const set = new Set();
+    const map1 = new Map();
+    const map2 = new Map();
     let count = 0;
     
     for (const word of words1) {
-        hash1[word] = hash1[word] + 1 || 1;
+        map1.set(word, map1.get(word) || 1);
     }
-    for (const word of words2) {
-        hash2[word] = hash2[word] + 1 || 1;
+    for (const word of words1) {
+        map2.set(word, map2.get(word) || 1);
     }
-    
-    for (const [key, val] of Object.entries(hash1)) {
-        if (val === 1) set.add(key);
-    }
-  
-    for (const [key, val] of Object.entries(hash2)) {
-        if (val === 1 && set.has(key)) count++;
+    for (const word of words1) {
+        if (map1.get(word) === 1 && map2.get(word) === 1) {
+            count++;
+        }
     }
     
     return count;
