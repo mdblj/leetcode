@@ -91,3 +91,7 @@
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) 🏆 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's.js) | Array | Easy |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) 🏆 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/Number%20of%20Laser%20Beams%20in%20a%20Bank.js) | Two-pointer | Medium |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) 🏆 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/Destroying%20Asteroids.js) | Array | Medium |
+| 2129  | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) 🏆 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/Capitalize%20the%20Title.js) | Array | Easy |
+| 2130  | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) 🏆 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.js) | Linked-list | Medium |
+| 2131  | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) 🏆 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/Maximum%20Twin%20Sum%20of%20a%20Linked%20List.js) | Greedy | Medium |
+
