@@ -1,6 +1,6 @@
 # Leetcode 
 
-🔥 &nbsp; means that needs to be looking up.
+🔥 &nbsp; means that needs to be looked up.
 <br/>
 🏆 &nbsp; indicates that the problem is from the Leetcode weekly contest.
 
