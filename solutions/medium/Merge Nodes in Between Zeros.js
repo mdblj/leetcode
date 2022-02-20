@@ -1,11 +1,15 @@
 /********************************************************************************** 
 * 
-* Reversing an integer means to reverse all its digits.
+* You are given the head of a linked list,
+* which contains a series of integers separated by 0's.
+* The beginning and end of the linked list will have Node.val == 0.
 *
-* For example, reversing 2021 gives 1202. Reversing 12300 gives 321 as the leading zeros are not retained.
-* Given an integer num, reverse num to get reversed1, then reverse reversed1 to get reversed2. 
-* Return true if reversed2 equals num. Otherwise return false.
-* 
+* For every two consecutive 0's, 
+* merge all the nodes lying in between them into a single node 
+* whose value is the sum of all the merged nodes.
+* The modified list should not contain any 0's.
+*
+* Return the head of the modified linked list.* 
 **********************************************************************************/
 
 // T.C = O(n), S.C = O(n)
