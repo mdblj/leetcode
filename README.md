@@ -13,6 +13,7 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/RemoveNthNodeFromEndOfList.js) | One pass | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/MergekSortedLists.js) | Priority Queue | Hard |
 | 39 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ValidSudoku.js) | Hash | Medium |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [JavaScript](https://github.com/mdblj/leetcode/blob/main/solutions/hard/Trapping%20Rain%20Water.js) | Shifting Two-pointer | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/MaximumSubarray.js) | Array | Easy |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) 🔥 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/JumpGame.js) | Greedy | Medium |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/InsertInterval.js) | Binary-search | Medium |
