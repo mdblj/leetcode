@@ -66,6 +66,7 @@
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/Non-overlappingIntervals.js) | Greedy | Medium |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/SubtreeofAnotherTree.js) | Binary-tree, DFS | Easy |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/PalindromicSubstrings.js) | DP | Medium |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [JavaScript](https://github.com/mdblj/leetcode/blob/main/solutions/easy/Backspace%20String%20Compare.js) | Strings, Two-pointer | Easy |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/UniqueEmailAddresses.js) | hash-set | Easy |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/CarPooling.js) | Greedy | Medium | 
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors) 🏆 | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/TwoFurthestHousesWithDifferentColors.js) | Sliding Window | Easy |
