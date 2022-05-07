@@ -33,6 +33,7 @@
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ConstructBinaryTreefromPreorderandInorderTraversal.js) | Binary-tree, DFS | Medium |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/Path%20Sum.js) | Binary-tree, DFS | Easy | 
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/hard/BinaryTreeMaximumPathSum.js) | Binary-tree, DFS | Hard |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [JavaScript](https://github.com/mdblj/leetcode/blob/main/solutions/easy/Valid%20Palindrome.js) | String | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/LongestConsecutiveSequence.js) | Hash | Medium |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/SurroundedRegions.js) | DFS | Medium |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/WordBreak.js) | DP, BFS | Medium |
@@ -41,6 +42,7 @@
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/HouseRobber.js) | DP | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JavsScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/NumberOfIslands.js) | DFS | Medium |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/HappyNumber.js) | Hash-set | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](https://github.com/mdblj/leetcode/blob/main/solutions/easy/Reverse%20Linked%20List.js) | Linked-list | Easy |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/CourseSchedule.js) | DFS | Medium |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/ImplementTrie.js) | Trie, DFS  | Medium |
 | 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/DesignAddandSearchWordsDataStructure.js) | Trie, DFS | Medium |
@@ -66,6 +68,7 @@
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/Non-overlappingIntervals.js) | Greedy | Medium |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/SubtreeofAnotherTree.js) | Binary-tree, DFS | Easy |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/PalindromicSubstrings.js) | DP | Medium |
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [JavaScript](https://github.com/mdblj/leetcode/blob/main/solutions/easy/Valid%20Palindrome%20II.js) | String | Easy |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [JavaScript](https://github.com/mdblj/leetcode/blob/main/solutions/easy/Backspace%20String%20Compare.js) | Strings, Two-pointer | Easy |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/easy/UniqueEmailAddresses.js) | hash-set | Easy |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [JavaScript](https://github.com/thinkJin6/leetcode/blob/main/solutions/medium/CarPooling.js) | Greedy | Medium | 
